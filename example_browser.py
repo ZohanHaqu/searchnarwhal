@@ -1,4 +1,4 @@
-# example/example_browser.py
+
 import tkinter as tk
 from searchnarwhal.browser import Browser
 
